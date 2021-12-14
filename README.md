@@ -36,3 +36,4 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 ```
 
 добавил этот текст
+а если вот этот???
